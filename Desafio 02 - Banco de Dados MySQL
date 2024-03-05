@@ -1,3 +1,2 @@
-
 sudo docker run --name docker_db -e MYSQL_USER=docker_usr -e MYSQL_PASSWORD=docker_pwd -d mysql
 
