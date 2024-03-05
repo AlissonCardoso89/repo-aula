@@ -1,0 +1,1 @@
+sudo docker run --name curso_docker -e POSTGRES_PASSWORD=docker_pwd -e POSTGRES_USER=docker_usr -d postgres
